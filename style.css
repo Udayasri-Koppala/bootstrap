@@ -84,7 +84,7 @@ h1{
   position: relative;
   background:
     linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("apple.webp") center center / cover no-repeat;
+    url("apple.jpg") center center / cover no-repeat;
   height: 80vh;
   width: 100%;
 }
